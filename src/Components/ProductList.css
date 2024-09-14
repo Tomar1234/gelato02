@@ -1,0 +1,17 @@
+.product-list {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .products {
+    float: right;
+    justify-content: center;
+    gap: 1.5rem;
+  }
+  
+  h1 {
+    font-size: 30px;
+    float: left;
+    margin-bottom: 1.5rem;
+  }
+  
